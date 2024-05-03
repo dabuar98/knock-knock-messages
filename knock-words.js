@@ -11,10 +11,10 @@ const messages = [
     {name: "Dewey", pun: "Do we have to keep telling knock-knock jokes?"}
 ];
 
-
-// function getRandomIntIncludingMax(max) {
-//     return Math.floor(Math.random() * max) + 1;
-// }
+// Gets a random number to choose the "joke"
+function generateRandomNumber() {
+    return Math.floor(Math.random() * messages.length);
+}
   
 
 function printMessage()
