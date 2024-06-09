@@ -18,10 +18,10 @@ This JavaScript program displays random knock-knock jokes each time it's run. By
 #### Steps to Run the Program
 
 1. **Download or Clone the Program:**
-   - Obtain the JavaScript file named `knock-knock.js` from the repository or source.
+   - Obtain the JavaScript file named `knock-words.js` from the repository or source.
 
 2. **Open Terminal or Command Prompt:**
-   - Navigate to the directory where `knock-knock.js` is located using the terminal or command prompt.
+   - Navigate to the directory where `knock-words.js` is located using the terminal or command prompt.
      ```sh
      cd path/to/directory
      ```
@@ -29,11 +29,11 @@ This JavaScript program displays random knock-knock jokes each time it's run. By
 3. **Run the Program:**
    - Execute the program by typing the following command:
      ```sh
-     node knock-knock.js
+     node knock-words.js
      ```
 
 4. **Enjoy the Joke:**
-   - The program will output a random knock-knock joke to the terminal.
+   - The program will output a random knock-knock joke to the terminal everytime is run.
 
 #### Example Usage
 
@@ -56,6 +56,6 @@ Lettuce in, it's freezing out here!
   - This command should return the installed version of Node.js.
 
 - **File Not Found:**
-  - Ensure you are in the correct directory where `knock-knock.js` is located. Use `ls` (Linux/macOS) or `dir` (Windows) to list files in the current directory.
+  - Ensure you are in the correct directory where `knock-words.js` is located. Use `ls` (Linux/macOS) or `dir` (Windows) to list files in the current directory.
 
 Now you're all set to enjoy random knock-knock jokes anytime you run the script!
