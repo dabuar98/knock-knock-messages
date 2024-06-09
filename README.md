@@ -39,11 +39,12 @@ This JavaScript program displays random knock-knock jokes each time it's run. By
 
 ```sh
 $ node knock-knock.js
-Knock, knock.
+"Knock, knock.
 Who's there?
 Lettuce.
 Lettuce who?
 Lettuce in, it's freezing out here!
+* laughs in the background *"
 ```
 
 #### Troubleshooting
